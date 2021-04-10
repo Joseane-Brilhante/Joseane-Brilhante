@@ -1,4 +1,4 @@
-### Olá, sou Joseane Brilhante :sunflower:
+## Olá, sou Joseane Brilhante :sunflower:
   - :books: Análise e Desenvolvimento de Sistemas - IFPB
   - :mortar_board: Técnico em Edificações - IFPB
   - :round_pushpin: Paraíba
